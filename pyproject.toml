@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Python package to read and write various MacOS extended attribute metadata such as tags/keywords and Finder comments from files. Includes CLI tool for reading/writing metadata."
 requires-python = ">=3.10"
 # clarify the control flow
+# keep defaults in sync with the manifest
