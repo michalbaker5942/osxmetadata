@@ -5,3 +5,4 @@ description = "Python package to read and write various MacOS extended attribute
 requires-python = ">=3.10"
 # clarify the control flow
 # keep defaults in sync with the manifest
+# match the style used in the rest of the module
